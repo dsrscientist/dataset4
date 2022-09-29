@@ -1,4 +1,4 @@
-,price,mark,model,year,mileage,engine_capacity,transmission,drive,hand_drive,fuel
+id,price,mark,model,year,mileage,engine_capacity,transmission,drive,hand_drive,fuel
 0,80,nissan,march,2003,80000,1240,at,2wd,rhd,gasoline
 1,110,nissan,march,2010,53000,1200,at,2wd,rhd,gasoline
 2,165,nissan,lafesta,2005,47690,2000,at,2wd,rhd,gasoline
